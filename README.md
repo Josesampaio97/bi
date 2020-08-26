@@ -25,3 +25,6 @@ Resposta: 1,1 é o relacionamento em que ambas as tabelas existem apenas valores
 
 8.	O que significa Drill Down / Drill Up?
 Resposta: Drill Down: Processo em que o usuário adentra em nível de detalhe da camada do relatório, desta forma diminuindo o nível de granularidade; Drill Up: Processo contrário ao Drill Down e compreende na elevação do nível de detalhe do relatório, desta forma aumentando o nível de granularidade. 
+
+Link para o Painel: https://app.powerbi.com/view?r=eyJrIjoiNzZlYTE4NzgtMjRkNC00MzM0LWFiYjItMzM4N2ZhMTA5ZjY5IiwidCI6ImI1OTFhZTU0LTMzYzItNDU4OS1iZTY2LTkwMjFhNDE5NmM3YyJ9
+
