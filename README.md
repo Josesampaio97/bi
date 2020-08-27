@@ -1,6 +1,6 @@
 # Teste Técnico Business Intelligence Hypercloud
 
-Perguntas teóricas:
+### Perguntas teóricas:
 
 1. Para você, o que significa Business Inteligence ?
 Resposta: É o processo em que se trabalha os dados através de ferramentas (Power BI, por exemplo) tornando os dados brutos em informações para melhores tomadas de decisões no ambiente empresarial. 
